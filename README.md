@@ -1,8 +1,8 @@
-# Eine Hello World Datei
-Gibt Hallo Welt aus!
+# Hello World Programm
+Dieses Programm gibt eine Begrüßung in Form von "Hallo Welt" aus.
 
-## Fragt nach dem Nahmen
-Geben Sie ihren den Namen an
+## Eingabe eines Namens
+Das Programm fordert den Benutzer auf, seinen Namen einzugeben.
 
-### Die Ausgabe mit Name
-Ein freundlicher Text mit dem eingebenem Namen als Ausgabe
+### Ausgabe mit dem Namen
+Nach Eingabe des Namens wird eine freundliche Begrüßung mit dem eingegebenen Namen angezeigt.
